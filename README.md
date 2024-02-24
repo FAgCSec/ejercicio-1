@@ -4,7 +4,7 @@ Este es un ejemplo de un botón en HTML que cambia de color cada vez que se hace
 
 ## Cómo iniciar
 
-1. Descarga la carpeta "ejercicio 1" ahí dentro estan los archivos `index.html`, `styles.css` y `script.js`.
+1. Descarga la carpeta "codes" ahí dentro estan los archivos `index.html`, `styles.css` y `script.js`.
 2. Abre `index.html` en un navegador web.
 
 ## Descripción del código
